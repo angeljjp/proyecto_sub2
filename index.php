@@ -17,9 +17,9 @@
         <p>Selecciona una consulta para ver los suscriptores:</p>
 
         <div class="botones">
-            <a href="ver_todos.php" class="btn">Ver todos</a>
-            <a href="ver_aceptados.php" class="btn">Aceptaron términos</a>
-            <a href="ver_no_aceptados.php" class="btn">No aceptaron términos</a>
+            <a href="consultas/ver_todos.php" class="btn">Ver todos</a>
+            <a href="consultas/ver_aceptados.php" class="btn">Aceptaron términos</a>
+            <a href="consultas/ver_no_aceptados.php" class="btn">No aceptaron términos</a>
         </div>
     </main>
 
